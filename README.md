@@ -108,8 +108,8 @@ Based on the analysis:
 **[Manohar Kumar]**  
 Aspiring Data Analyst | Excel | SQL | Power BI  
 📧 Mnaohar.k.soothar110@gmail.com 
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🔗 [GitHub Profile](https://github.com/yourusername)
+🔗 [LinkedIn Profile](linkedin.com/in/manohar-kumar-06327a294)  
+🔗 [GitHub Profile](https://github.com/Manohar-92)
 
 ---
 
