@@ -20,8 +20,8 @@ The goal of this project was to analyze Vrinda Store's annual sales data, clean 
 | File | Description |
 |------|-------------|
 | <a href="https://github.com/Manohar-92/Vrinda-Store-Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Sheet%20Before%20Data%20Analysis.xlsx">Vrinda_Store_Sheet_Before_Data_Analysis.xlsx<a/> | Raw, uncleaned original dataset |
-| `Vrinda_Store_Data_Analysis.xlsx` | Cleaned data + Pivot Tables + Final Dashboard |
-| `Vrinda_Store_Dashboard.png` | Screenshot of the completed dashboard |
+| <a href="https://github.com/Manohar-92/Vrinda-Store-Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Vrinda_Store_Data_Analysis.xlsxx<a/> | Cleaned data + Pivot Tables + Final Dashboard |
+| <a href="https://github.com/Manohar-92/Vrinda-Store-Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Dashboard.png>Vrinda_Store_Dashboard.pngx<a/> | Screenshot of the completed dashboard |
 
 ---
 
