@@ -90,7 +90,7 @@ Based on the analysis:
 
 ## 🚀 How to Use the Dashboard
 
-1. Open `Vrinda_Store_Data_Analysis.xlsx` in Microsoft Excel
+1. Open <a href="https://github.com/Manohar-92/Vrinda-Store-Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Vrinda_Store_Data_Analysis.xlsxx<a/> in Microsoft Excel
 2. Navigate to the **Dashboard** sheet
 3. Use the **slicers** on the left panel to filter by:
    - Month
