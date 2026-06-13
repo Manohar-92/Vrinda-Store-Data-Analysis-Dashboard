@@ -50,6 +50,8 @@ The final dashboard includes **6 interactive charts** with slicers for **Month**
 | Order Status | Pie Chart | Delivered vs Cancelled vs Returned vs Refunded |
 | Orders: Age vs Gender | Clustered Bar | Age group and gender buying behavior |
 | Orders: Channels | Pie Chart | Platform-wise order distribution |
+<img width="1858" height="648" alt="Vrinda Store Dashboard" src="https://github.com/user-attachments/assets/2522e084-217a-42b8-8a07-1918f3abe0f8" />
+
 
 ---
 
